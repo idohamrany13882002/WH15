@@ -1,0 +1,1 @@
+# inside a function the meaning of the word global means you take a variable from outside the function that is global to the file when using global variable as part of a function you can only read it not write it therefore in the given block of code you try changing the global variable "x" therefore you get an error
